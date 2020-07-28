@@ -8,6 +8,7 @@
         "class-list-builder": "^1.1.0",
         "color-hash": "^1.0.3",
         "dayjs": "^1.8.15",
+        "dexie": "^3.0.1",
         "formik": "^2.0.3",
         "node-sass": "^4.12.0",
         "onkey-event-manager": "^1.0.0",
